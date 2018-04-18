@@ -10,3 +10,5 @@ else:
     print("ja het is gelukt")
 
 print("eind")
+b = 4
+print(b*2)
